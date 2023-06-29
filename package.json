@@ -4,7 +4,7 @@
   "private": true,
   "main": "app.js",
   "scripts": {
-    "start": "nodemon --inspect=0.0.0.0:9229 ./bin/www -e coffee,js,ejs"
+  
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",

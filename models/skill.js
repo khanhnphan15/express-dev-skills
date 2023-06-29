@@ -3,31 +3,26 @@
 const skills = [{
     id: 1,
     skill: 'Javascript',
-    level: 65,
     done: true
   },
   {
     id: 2,
     skill: 'HTML',
-    level: 75,
     done: true,
   },
   {
     id: 3,
     skill: 'CSS',
-    level: 80,
     done: true,
   },
   {
     id: 4,
     skill: 'Python',
-    level: 50,
     done: false
   },
   {
     id: 5,
     skill: 'React JS',
-    level: 20,
     done: false
   }
   ];
